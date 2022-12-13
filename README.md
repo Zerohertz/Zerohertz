@@ -48,5 +48,5 @@
 - [대학원생 전세 대출 도전기](https://zerohertz.github.io/graduate-student-charter-loan-challenge-story/)
 - [BOJ 1005](https://zerohertz.github.io/boj-1005/)
 - [BOJ 2096](https://zerohertz.github.io/boj-2096/)
-- [BOJ 13460](https://zerohertz.github.io/boj-13460/)
+- [BOJ 1389](https://zerohertz.github.io/boj-1389/)
 <!-- BLOG-POST-LIST:END -->
