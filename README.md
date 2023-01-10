@@ -44,9 +44,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Building A Windows Server Infrastructure For Data Analysis](https://zerohertz.github.io/building-a-windows-server-infrastructure-for-data-analysis/)
 - [BOJ 18185, 18186](https://zerohertz.github.io/boj-18185-18186/)
 - [Update Hexo NexT Blog](https://zerohertz.github.io/update-hexo-next-blog/)
 - [대학원생 전세 대출 도전기](https://zerohertz.github.io/graduate-student-charter-loan-challenge-story/)
 - [BOJ 1005](https://zerohertz.github.io/boj-1005/)
-- [BOJ 2096](https://zerohertz.github.io/boj-2096/)
 <!-- BLOG-POST-LIST:END -->
