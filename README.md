@@ -44,9 +44,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [MLOps: Database](https://zerohertz.github.io/mlops-database/)
 - [MLOps &lpar;1&rpar;](https://zerohertz.github.io/mlops-1/)
 - [Deep Learning with PyTorch &lpar;1&rpar;](https://zerohertz.github.io/deep-learning-with-pytorch-1/)
 - [Building a Windows Server Infrastructure for Data Analysis](https://zerohertz.github.io/building-a-windows-server-infrastructure-for-data-analysis/)
 - [BOJ 18185, 18186](https://zerohertz.github.io/boj-18185-18186/)
-- [Update Hexo NexT Blog](https://zerohertz.github.io/update-hexo-next-blog/)
 <!-- BLOG-POST-LIST:END -->
