@@ -44,9 +44,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ 14503](https://zerohertz.github.io/boj-14503/)
 - [MLOps: Model Development](https://zerohertz.github.io/mlops-model-development/)
 - [BOJ 12100](https://zerohertz.github.io/boj-12100/)
 - [BOJ 3190](https://zerohertz.github.io/boj-3190/)
 - [MLOps: Database](https://zerohertz.github.io/mlops-database/)
-- [MLOps &lpar;1&rpar;](https://zerohertz.github.io/mlops-1/)
 <!-- BLOG-POST-LIST:END -->
