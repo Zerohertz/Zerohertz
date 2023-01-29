@@ -44,9 +44,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmers 파괴되지 않은 건물](https://zerohertz.github.io/programmers-92344/)
+- [Programmers 합승 택시 요금](https://zerohertz.github.io/programmers-72413/)
 - [BOJ 14503](https://zerohertz.github.io/boj-14503/)
 - [MLOps: Model Development](https://zerohertz.github.io/mlops-model-development/)
 - [BOJ 12100](https://zerohertz.github.io/boj-12100/)
-- [BOJ 3190](https://zerohertz.github.io/boj-3190/)
-- [MLOps: Database](https://zerohertz.github.io/mlops-database/)
 <!-- BLOG-POST-LIST:END -->
