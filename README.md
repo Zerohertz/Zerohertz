@@ -19,7 +19,7 @@
 
 > He received the B.S. degree from the Department of Mechanical Engineering, Konkuk University, Seoul, South Korea, in 2021. He is currently working toward the M.Eng. degree with the Smart Intelligent Manufacturing System Laboratory (SiM Lab) in the Department of Mechanical Design and Production Engineering, Konkuk University, Seoul, South Korea.
 
-> He has studied the roll-to-roll manufacturing process, fault diagnosis, and feature engineering. His research interests included computer vision, machine learning and deep learning.
+> He has studied the roll-to-roll manufacturing process, fault diagnosis, and feature engineering. His research interests included computer vision, machine learning and MLOps.
 
 <p align = "center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
