@@ -17,7 +17,7 @@
     </a>
 </p>
 
-~~~sh
+~~~python
 2023.02 ~ Present: Researcher at Computer Vision R&D Department, AgileSoDA, Korea
 2021.03 ~ 2023.02: M.Eng. in Department of Mechanical Design and Production Engineering, Konkuk University, Korea
   ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
