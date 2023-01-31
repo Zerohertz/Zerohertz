@@ -17,9 +17,16 @@
     </a>
 </p>
 
-> He received the B.S. degree from the Department of Mechanical Engineering, Konkuk University, Seoul, South Korea, in 2021. He is currently working toward the M.Eng. degree with the Smart Intelligent Manufacturing System Laboratory (SiM Lab) in the Department of Mechanical Design and Production Engineering, Konkuk University, Seoul, South Korea.
+~~~css
+2023.02 ~ Present: Researcher at Computer Vision R&D Department, AgileSoDA, Korea
+2021.03 ~ 2023.02: M.Eng. in Department of Mechanical Design and Production Engineering, Konkuk University, Korea
+  ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
+2017.03 ~ 2021.02: B.S. in Department of Mechanical Engineering, Konkuk University, Korea
+  ㄴ 2018.06 ~ 2019.11: Research Intern at MRV Lab. (Medical Robotics and Virtual Reality Laboratory)
+  ㄴ 2019.11 ~ 2021.02: Research Intern at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
+~~~
 
-> He has studied the roll-to-roll manufacturing process, fault diagnosis, and feature engineering. His research interests included computer vision, machine learning and MLOps.
+> Computer vision, Machine Learning, MLOps
 
 <p align = "center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
