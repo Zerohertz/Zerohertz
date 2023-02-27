@@ -51,9 +51,9 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [MLOps: Kafka](https://zerohertz.github.io/mlops-kafka/)
 - [MLOps: API Serving](https://zerohertz.github.io/mlops-api-serving/)
 - [MLOps: FastAPI](https://zerohertz.github.io/mlops-fastapi/)
 - [MLOps: Model Registry](https://zerohertz.github.io/mlops-model-registry/)
 - [Programmers 자물쇠와 열쇠](https://zerohertz.github.io/programmers-60059/)
-- [Programmers 파괴되지 않은 건물](https://zerohertz.github.io/programmers-92344/)
 <!-- BLOG-POST-LIST:END -->
