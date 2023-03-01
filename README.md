@@ -43,7 +43,7 @@ Interested in computer vision, machine learning, MLOps
 </p>
 
 <h3 align = "center">
-    Tech Stack
+    Python Module
 </h3>
 
 <p align = "center">
