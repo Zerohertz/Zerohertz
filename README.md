@@ -70,7 +70,7 @@ Interested in computer vision, machine learning, MLOps
 </h3>
 
 <p align = "center">
-    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/>
 </p>
 
 <h3 align = "center">
@@ -78,7 +78,7 @@ Interested in computer vision, machine learning, MLOps
 </h3>
 
 <p align = "center">
-    <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=Ansys&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Catia-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/> <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=Ansys&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Catia-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/> <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </p>
 
 ***
