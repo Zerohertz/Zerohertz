@@ -52,8 +52,8 @@ Interested in computer vision, machine learning, MLOps
 
 <!-- BLOG-POST-LIST:START -->
 - [전문연구요원: 시작](https://zerohertz.github.io/professional-research-agent-init/)
-- [MLOps: Kafka](https://zerohertz.github.io/mlops-kafka/)
-- [MLOps: API Serving](https://zerohertz.github.io/mlops-api-serving/)
-- [MLOps: FastAPI](https://zerohertz.github.io/mlops-fastapi/)
-- [MLOps: Model Registry](https://zerohertz.github.io/mlops-model-registry/)
+- [MLOps for MLE: Kafka](https://zerohertz.github.io/mlops-for-mle-kafka/)
+- [MLOps for MLE: API Serving](https://zerohertz.github.io/mlops-for-mle-api-serving/)
+- [MLOps for MLE: FastAPI](https://zerohertz.github.io/mlops-for-mle-fastapi/)
+- [MLOps for MLE: Model Registry](https://zerohertz.github.io/mlops-for-mle-model-registry/)
 <!-- BLOG-POST-LIST:END -->
