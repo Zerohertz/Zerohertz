@@ -70,7 +70,7 @@ Interested in computer vision, machine learning, MLOps
 </h3>
 
 <p align = "center">
-    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=MLflow&logoColor=white"/>
 </p>
 
 <h3 align = "center">
