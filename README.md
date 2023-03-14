@@ -90,9 +90,9 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to convert a PyTorch model to TensorRT](https://zerohertz.github.io/how-to-convert-a-pytorch-model-to-tensorrt/)
 - [MLOps for MLE: Stream](https://zerohertz.github.io/mlops-for-mle-stream/)
 - [How to change PyTorch model structure and train only some layers](https://zerohertz.github.io/how-to-change-pytorch-model-structure-and-train-only-some-layers/)
 - [전문연구요원: 훈련소](https://zerohertz.github.io/professional-research-agent-train/)
 - [전문연구요원: 시작](https://zerohertz.github.io/professional-research-agent-init/)
-- [MLOps for MLE: Kafka](https://zerohertz.github.io/mlops-for-mle-kafka/)
 <!-- BLOG-POST-LIST:END -->
