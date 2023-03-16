@@ -98,8 +98,8 @@ Interested in computer vision, machine learning, MLOps
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zerohertz&card_width=500&hide_title=true&show_icons=true&count_private=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"/>
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_width=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"/>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_width=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"/>
+    
 </div>
 </details>
 
