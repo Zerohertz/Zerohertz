@@ -81,6 +81,17 @@ Interested in computer vision, machine learning, MLOps
     <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square&logo=Ansys&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Catia-005386?style=flat-square&logo=Dassault Systèmes&logoColor=white"/> <img src="https://img.shields.io/badge/LabVIEW-FFDB00?style=flat-square&logo=LabVIEW&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </p>
 
+<details>
+<summary align="center">Git Status!</summary>
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=zerohertz&card_width=500&hide_title=true&show_icons=true&count_private=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"/>
+</br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_width=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"/>
+
+</div>
+</details>
+
 ***
 
 <h2 align = "center">
