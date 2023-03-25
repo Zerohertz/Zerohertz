@@ -4,16 +4,16 @@
 
 <p align = "center">
     <a href="https://github.com/Zerohertz/Zerohertz/blob/main/CV.pdf">
-        <img src="https://img.shields.io/badge/Curriculum Vitae-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Curriculum Vitae-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
     </a>
     <a href = "https://scholar.google.com/citations?user=TxiJyc0AAAAJ">
-        <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
     </a>
     <a href = "https://www.linkedin.com/in/hyogeun-oh-67470b242/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
     </a>
     <a href="mailto:ohg3417@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
 </p>
 
@@ -60,7 +60,10 @@ Interested in computer vision, machine learning, MLOps
 <p align = "center">
     <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 </p>
-
+<p align = "center">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
+</p>
+    
 <h3 align = "center">
     Familiar with
 </h3>
