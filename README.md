@@ -115,9 +115,9 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Labeling with Label Studio for Pre-labeled Data using YOLOv5](https://zerohertz.github.io/labeling-with-label-studio-for-pre-labeled-data-using-yolov5/)
 - [Using Docker for Testing Triton Server](https://zerohertz.github.io/using-docker-for-testing-triton-server/)
 - [Implementing Mask R-CNN with PyTorch](https://zerohertz.github.io/implementing-mask-r-cnn-with-pytorch/)
 - [How to convert a PyTorch model to TensorRT](https://zerohertz.github.io/how-to-convert-a-pytorch-model-to-tensorrt/)
 - [MLOps for MLE: Stream](https://zerohertz.github.io/mlops-for-mle-stream/)
-- [How to change PyTorch model structure and train only some layers](https://zerohertz.github.io/how-to-change-pytorch-model-structure-and-train-only-some-layers/)
 <!-- BLOG-POST-LIST:END -->
