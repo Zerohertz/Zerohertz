@@ -124,6 +124,8 @@ Interested in computer vision, machine learning, MLOps
 - [How to convert a PyTorch model to TensorRT](https://zerohertz.github.io/how-to-convert-a-pytorch-model-to-tensorrt/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 <details>
 <summary align="center">
 <h4 align = "center">
@@ -134,7 +136,7 @@ Interested in computer vision, machine learning, MLOps
 
 <table align='center'>
   <tr>
-    <td align="center"><a href="https://github.com/Zerohertz"><img src="https://avatars.githubusercontent.com/u/42334717" width="100px;" alt=""/><br/><sub><b>:zap: 오효근 :zap:</b></sub></a><br/></td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/42334717" width="100px;" alt=""/><br/><sub><b>:zap: 오효근 :zap:</b></sub><br/></td>
     <td align="center"><img src="https://user-images.githubusercontent.com/42334717/234809693-ac3601da-fbb2-44f7-a79b-85fa0e16e2aa.png" width="100px;" alt=""/><br/><sub><b>:black_cat: 먼지 :black_cat:</b></sub></td>
 </table>
 
