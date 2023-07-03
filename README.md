@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Go &lpar;1&rpar;](https://zerohertz.github.io/go-1/)
 - [Kubernetes 입문기 &lpar;1&rpar;](https://zerohertz.github.io/k8s-1/)
 - [전문연구요원: 훈련소 후기](https://zerohertz.github.io/professional-research-agent-train-review/)
 - [Paper Review: DEER](https://zerohertz.github.io/paper-review-deer/)
 - [AWS Neuron SDK &amp; AWS Inferentia](https://zerohertz.github.io/aws-neuron-sdk-aws-inferentia/)
-- [Nutrients](https://zerohertz.github.io/nutrients/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
