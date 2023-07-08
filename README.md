@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Git Hooks 기반 Python Code Formatting](https://zerohertz.github.io/formatting-python-code-based-on-git-hooks/)
 - [GitHub Actions 기반 Formatting 자동화](https://zerohertz.github.io/automating-code-formatting-with-github-actions/)
 - [Go &lpar;1&rpar;](https://zerohertz.github.io/go-1/)
 - [Kubernetes 입문기 &lpar;1&rpar;](https://zerohertz.github.io/k8s-1/)
 - [전문연구요원: 훈련소 후기](https://zerohertz.github.io/professional-research-agent-train-review/)
-- [Paper Review: DEER](https://zerohertz.github.io/paper-review-deer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
