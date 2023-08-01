@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ: 11004](https://zerohertz.github.io/boj-11004/)
+- [BOJ: 10815](https://zerohertz.github.io/boj-10815/)
+- [BOJ: 2563](https://zerohertz.github.io/boj-2563/)
+- [BOJ: 1439](https://zerohertz.github.io/boj-1439/)
 - [Apache Airflow &lpar;2&rpar;](https://zerohertz.github.io/apache-airflow-2/)
-- [Apache Airflow &lpar;1&rpar;](https://zerohertz.github.io/apache-airflow-1/)
-- [Go &lpar;2&rpar;](https://zerohertz.github.io/go-2/)
-- [Serving YOLOv5 Segmentation Model with Amazon EC2 Inf1](https://zerohertz.github.io/serving-yolov5-segmentation-model-with-aws-ec2-inf1/)
-- [Git Hooks 기반 Python Code Formatting](https://zerohertz.github.io/formatting-python-code-based-on-git-hooks/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
