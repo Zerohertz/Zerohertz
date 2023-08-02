@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Python의 빠른 연산을 위한 Process 기반 병렬 처리](https://zerohertz.github.io/multiprocessing/)
 - [BOJ: 11004](https://zerohertz.github.io/boj-11004/)
 - [BOJ: 10815](https://zerohertz.github.io/boj-10815/)
 - [BOJ: 2563](https://zerohertz.github.io/boj-2563/)
 - [BOJ: 1439](https://zerohertz.github.io/boj-1439/)
-- [Apache Airflow &lpar;2&rpar;](https://zerohertz.github.io/apache-airflow-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
