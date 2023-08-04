@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [BOJ: 1024](https://zerohertz.github.io/boj-1024/)
 - [Home Server 구축기](https://zerohertz.github.io/home-server/)
 - [Python의 빠른 연산을 위한 Process 기반 병렬 처리](https://zerohertz.github.io/multiprocessing/)
 - [BOJ: 11004](https://zerohertz.github.io/boj-11004/)
 - [BOJ: 10815](https://zerohertz.github.io/boj-10815/)
-- [BOJ: 2563](https://zerohertz.github.io/boj-2563/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
