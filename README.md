@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [K9s](https://zerohertz.github.io/k9s/)
 - [Home Server: Monitoring](https://zerohertz.github.io/home-server-monitoring/)
 - [Kubeflow](https://zerohertz.github.io/kubeflow/)
 - [BOJ: 1024](https://zerohertz.github.io/boj-1024/)
 - [Home Server 구축기](https://zerohertz.github.io/home-server-init/)
-- [Python의 빠른 연산을 위한 Process 기반 병렬 처리](https://zerohertz.github.io/multiprocessing/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
