@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Airflow Setup on Kubernetes](https://zerohertz.github.io/k8s-airflow/)
 - [GitHub: Verified Signature](https://zerohertz.github.io/github-verified-signature/)
 - [Kubernetes: Ingress](https://zerohertz.github.io/k8s-ingress/)
 - [K9s](https://zerohertz.github.io/k9s/)
 - [Home Server: Monitoring](https://zerohertz.github.io/home-server-monitoring/)
-- [Kubeflow](https://zerohertz.github.io/kubeflow/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
