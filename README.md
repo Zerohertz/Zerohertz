@@ -117,11 +117,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Traefik: OAuth](https://zerohertz.github.io/traefik-oauth/)
 - [Kubernetes Dashboard](https://zerohertz.github.io/k8s-dashboard/)
 - [Apache Airflow 기반 Discord Webhook 개발](https://zerohertz.github.io/airflow-discord/)
 - [Apache Airflow Setup on Kubernetes](https://zerohertz.github.io/k8s-airflow/)
 - [GitHub: Verified Signature](https://zerohertz.github.io/github-verified-signature/)
-- [Kubernetes: Ingress](https://zerohertz.github.io/k8s-ingress/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
