@@ -1,12 +1,6 @@
 <h2 align = "center">
     :zap: Zerohertz :zap:
 </h2>
-
-<div align="center">
-    <img width=100 src="https://github.githubassets.com/images/mona-loading-dark.gif">
-</div>
-</br>
-
 <p align = "center">
     <a href="https://github.com/Zerohertz/Zerohertz/blob/main/CV.pdf">
         <img src="https://img.shields.io/badge/Curriculum Vitae-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
@@ -33,11 +27,16 @@
 
 Interested in computer vision, machine learning, MLOps
 
-<p align = "center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<p align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%23800a0a&title_bg=%23f00a0a&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
 
-***
+
+<div align="center">
+    <img width=100 src="https://github.githubassets.com/images/mona-loading-dark.gif">
+</div>
+
+---
 
 <details>
 <summary align="center">
@@ -113,7 +112,7 @@ Interested in computer vision, machine learning, MLOps
 </div>
 </details>
 
-***
+---
 
 <h2 align = "center">
     <a href = "https://zerohertz.github.io/">
