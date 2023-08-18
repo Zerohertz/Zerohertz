@@ -2,6 +2,11 @@
     :zap: Zerohertz :zap:
 </h2>
 
+<div align="center">
+    <img width=100 src="https://github.githubassets.com/images/mona-loading-dark.gif">
+</div>
+</br>
+
 <p align = "center">
     <a href="https://github.com/Zerohertz/Zerohertz/blob/main/CV.pdf">
         <img src="https://img.shields.io/badge/Curriculum Vitae-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
