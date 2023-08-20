@@ -121,11 +121,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Airflow 기반 Google Analytics 4 API를 통한 블로그 사용자 정보 전달 자동화](https://zerohertz.github.io/airflow-ga4-api/)
 - [Apache Airflow 기반 자동결제 DAG 개발](https://zerohertz.github.io/airflow-auto-payment/)
 - [Home Server: External IP 변동 감지 Service](https://zerohertz.github.io/home-server-external-ip/)
 - [Traefik: OAuth](https://zerohertz.github.io/traefik-oauth/)
 - [Kubernetes Dashboard](https://zerohertz.github.io/k8s-dashboard/)
-- [Apache Airflow 기반 Discord Webhook 개발](https://zerohertz.github.io/airflow-discord/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
