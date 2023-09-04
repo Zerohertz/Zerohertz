@@ -121,11 +121,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [전문연구요원: 업체 정보](https://zerohertz.github.io/awesome-jmy/)
 - [Apache Airflow: Continuous Training](https://zerohertz.github.io/airflow-ct/)
 - [Apache Airflow: Theme](https://zerohertz.github.io/airflow-theme/)
 - [GitHub Actions와 ArgoCD 기반 CI/CD 도전기](https://zerohertz.github.io/cicd-init/)
 - [Home Server: Cloud](https://zerohertz.github.io/home-server-cloud/)
-- [Apache Airflow 기반 Google Analytics 4 API를 통한 블로그 사용자 정보 전달 자동화](https://zerohertz.github.io/airflow-ga4-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
