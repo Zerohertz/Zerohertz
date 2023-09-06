@@ -16,7 +16,7 @@
     </a>
 </p>
 
-~~~
+~~~yaml
 2023.02 ~ Present: Researcher at Machine Vision R&D Department, AgileSoDA, Korea
 2021.03 ~ 2023.02: M.S. in Mechanical Design and Production Engineering, Konkuk University, Korea
   ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
