@@ -119,11 +119,11 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Sphinx 기반 Python Package 문서화](https://zerohertz.github.io/sphinx/)
 - [전문연구요원: 업체 정보](https://zerohertz.github.io/awesome-jmy/)
 - [Apache Airflow: Continuous Training](https://zerohertz.github.io/airflow-ct/)
 - [Apache Airflow: Theme](https://zerohertz.github.io/airflow-theme/)
 - [GitHub Actions와 ArgoCD 기반 CI/CD 도전기](https://zerohertz.github.io/cicd-init/)
-- [Home Server: Cloud](https://zerohertz.github.io/home-server-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
