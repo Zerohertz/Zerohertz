@@ -126,16 +126,6 @@ Interested in computer vision, machine learning, MLOps
 - [GitHub Actions와 ArgoCD 기반 CI/CD 도전기](https://zerohertz.github.io/cicd-init/)
 <!-- BLOG-POST-LIST:END -->
 
----
-
-<details>
-<summary align="center">
-<h4 align = "center">
-    ✨ 기여자 (Contributors) ✨
-</h4>
-</summary>
-<div align="center">
-
 <table align='center'>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/42334717" width="100px;" alt=""/><br/><sub><b>:zap: 오효근 :zap:</b></sub><br/></td>
