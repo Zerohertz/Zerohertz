@@ -36,7 +36,14 @@ Interested in computer vision, machine learning, MLOps
     <img width=100 src="https://github.githubassets.com/images/mona-loading-dark.gif">
 </div>
 
----
+<table align="center">
+<tr>
+<td align="center"><img src="https://github-readme-stats-zerohertz.vercel.app/api?username=zerohertz&card_width=500&hide_title=true&show_icons=true&count_private=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a" alt="stats" height=150 /></td>
+<td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_widtht=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT,Stylus,Nunjucks&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a" alt="lang" height=150 /></td>
+</tr>
+</table>
+
+<!--
 
 <details>
 <summary align="center">
@@ -110,7 +117,7 @@ Interested in computer vision, machine learning, MLOps
 </div>
 </details>
 
----
+-->
 
 <h2 align = "center">
     <a href = "https://zerohertz.github.io/">
