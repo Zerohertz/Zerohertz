@@ -126,9 +126,9 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Builds in Jenkins using Kaniko for CI/CD Pipelines](https://zerohertz.github.io/jenkins-kaniko/)
 - [Constructing a CI/CD Pipeline for Python Packages Using Jenkins](https://zerohertz.github.io/python-pkg-cicd/)
 - [Jenkins Installation and Initial Setup on Kubernetes](https://zerohertz.github.io/jenkins-init/)
 - [Java &lpar;1&rpar;](https://zerohertz.github.io/java-1/)
 - [Sphinx 기반 Python Package 문서화](https://zerohertz.github.io/sphinx/)
-- [전문연구요원: 업체 정보](https://zerohertz.github.io/awesome-jmy/)
 <!-- BLOG-POST-LIST:END -->
