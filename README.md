@@ -1,5 +1,5 @@
 <h2 align = "center">
-    :zap: Zerohertz :zap:
+    ⚡ Zerohertz ⚡
 </h2>
 <p align = "center">
     <a href="https://zerohertz.github.io/resume/">
