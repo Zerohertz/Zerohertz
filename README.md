@@ -137,9 +137,9 @@ Interested in computer vision, machine learning, MLOps
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Lecture Review: 실전 AI 서비스 기획 &lpar;Jump into the AI World - AI Product Lifecycle&rpar;](https://zerohertz.github.io/upstage-udemy/)
 - [Docker Builds in Jenkins using Kaniko for CI/CD Pipelines](https://zerohertz.github.io/jenkins-kaniko/)
 - [Constructing a CI/CD Pipeline for Python Packages Using Jenkins](https://zerohertz.github.io/python-pkg-cicd/)
 - [Jenkins Installation and Initial Setup on Kubernetes](https://zerohertz.github.io/jenkins-init/)
 - [Java &lpar;1&rpar;](https://zerohertz.github.io/java-1/)
-- [Sphinx 기반 Python Package 문서화](https://zerohertz.github.io/sphinx/)
 <!-- BLOG-POST-LIST:END -->
