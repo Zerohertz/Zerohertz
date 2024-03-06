@@ -1,0 +1,75 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/*.yaml
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Default metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: props/metrics.base.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: header, activity, community, repositories
+
+      - name: Compact display
+        uses: lowlighter/metrics@latest
+        with:
+          filename: props/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+
+      - name: Half-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: props/metrics.plugin.isocalendar.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+
+      - name: Full-year calendar
+        if: false
+        uses: lowlighter/metrics@latest
+        with:
+          filename: props/metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Fortune
+        if: false
+        uses: lowlighter/metrics@latest
+        with:
+          filename: props/metrics.plugin.fortune.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_fortune: yes
+
+      - name: Mildly interesting facts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: props/metrics.plugin.habits.facts.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: Asia/Seoul
