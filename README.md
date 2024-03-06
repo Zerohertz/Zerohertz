@@ -25,16 +25,26 @@
   ㄴ 2019.11 ~ 2021.02: Research Intern at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
 ~~~
 
-Interested in computer vision, machine learning, MLOps
+> Interested in computer vision, machine learning, MLOps
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="props/metrics.base.svg" alt="base" width="100%">
+      <img src="props/metrics.plugin.habits.facts.svg" alt="isocalendar" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <img src="props/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%">
+      <img src="props/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%23800a0a&title_bg=%23f00a0a&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
 
-
-<div align="center">
-    <img width=100 src="https://github.githubassets.com/images/mona-loading-dark.gif">
-</div>
+<!--
 
 <details>
 <summary align="center">
@@ -48,10 +58,8 @@ Interested in computer vision, machine learning, MLOps
 <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_widtht=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT,Stylus,Nunjucks&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a" alt="lang" height=150 /></td>
 </tr>
 </table>
-<p align="center">
-<img src="profile-3d-contrib/profile-green-animate.svg" width=700 />
-</p>
 </details>
+-->
 
 <!--
 
