@@ -1,6 +1,9 @@
 <h2 align="center">
     ⚡ Zerohertz ⚡
 </h2>
+
+> Interested in computer vision, machine learning, MLOps
+
 <p align="center">
     <a href="https://zerohertz.github.io/about/">
         <img src="https://img.shields.io/badge/About Me-800A0A?style=for-the-badge&logo=ReadMe&logoColor=white"/>
@@ -25,7 +28,6 @@
   ㄴ 2019.11 ~ 2021.02: Research Intern at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
 ~~~
 
-> Interested in computer vision, machine learning, MLOps
 
 <table>
   <tr>
@@ -45,24 +47,6 @@
 </p>
 
 <!--
-
-<details>
-<summary align="center">
-<h2 align="center">
-    🌲
-</h2>
-</summary>
-<table align="center">
-<tr>
-<td align="center"><img src="https://github-readme-stats-zerohertz.vercel.app/api?username=zerohertz&card_width=500&hide_title=true&show_icons=true&count_private=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a" alt="stats" height=150 /></td>
-<td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_widtht=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT,Stylus,Nunjucks&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a" alt="lang" height=150 /></td>
-</tr>
-</table>
-</details>
--->
-
-<!--
-
 <details>
 <summary align="center">
 <h2 align="center">
@@ -126,16 +110,17 @@
     💻 Git Status 💻
 </h2>
 </summary>
-<div align="center">
-
-<img align="center" src="https://github-readme-stats-zerohertz.vercel.app/api?username=zerohertz&card_width=500&hide_title=true&show_icons=true&count_private=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"/>
-</br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_width=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT,Stylus,Nunjucks&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"/>    
-    
-</div>
+<table align="center">
+<tr>
+<td align="center"><img src="https://github-readme-stats-zerohertz.vercel.app/api?username=zerohertz&card_width=500&hide_title=true&show_icons=true&count_private=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a" alt="stats" height=150 /></td>
+<td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_widtht=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT,Stylus,Nunjucks&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a" alt="lang" height=150 /></td>
+</tr>
+</table>
 </details>
 
 -->
+
+---
 
 <h2 align="center">
     <a href="https://zerohertz.github.io/">
