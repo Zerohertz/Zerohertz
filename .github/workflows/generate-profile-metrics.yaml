@@ -37,6 +37,7 @@ jobs:
           plugin_achievements_threshold: X
 
       - name: Half-year calendar
+        if: false
         uses: lowlighter/metrics@latest
         with:
           filename: props/metrics.plugin.isocalendar.svg
@@ -45,7 +46,6 @@ jobs:
           plugin_isocalendar: yes
 
       - name: Full-year calendar
-        if: false
         uses: lowlighter/metrics@latest
         with:
           filename: props/metrics.plugin.isocalendar.fullyear.svg
