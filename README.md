@@ -34,7 +34,9 @@
       <td width="50%" valign="top">
         <img src="props/metrics.base.svg" alt="base" width="100%">
         <!-- <img src="props/metrics.plugin.habits.facts.svg" alt="isocalendar" width="100%"> -->
-        <img src="https://render.gitanimals.org/farms/Zerohertz"/>
+        <a href="https://render.gitanimals.org/farms/Zerohertz">
+          <img src="https://render.gitanimals.org/farms/Zerohertz"/>
+        </a>
         <!-- https://render.gitanimals.org/users/Zerohertz -->
         <!-- <img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020690" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020688" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020686" width="25%" height="100"/> -->
       </td>
