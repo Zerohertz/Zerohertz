@@ -19,31 +19,36 @@
     </a>
 </p>
 
-~~~yaml
+```yaml
 2023.02 ~ Present: Machine Learning Research Engineer at Machine Vision R&D Department, AgileSoDA, Korea
 2021.03 ~ 2023.02: M.S. in Mechanical Design and Production Engineering, Konkuk University, Korea
   ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
 2017.03 ~ 2021.02: B.S. in Department of Mechanical Engineering, Konkuk University, Korea
   ㄴ 2018.06 ~ 2019.11: Research Intern at MRV Lab. (Medical Robotics and Virtual Reality Laboratory)
   ㄴ 2019.11 ~ 2021.02: Research Intern at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
-~~~
+```
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <img src="props/metrics.base.svg" alt="base" width="100%">
+        <!-- <img src="props/metrics.plugin.habits.facts.svg" alt="isocalendar" width="100%"> -->
+        <img src="https://render.gitanimals.org/farms/Zerohertz"/>
+        <!-- https://render.gitanimals.org/users/Zerohertz -->
+        <!-- <img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020690" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020688" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020686" width="25%" height="100"/> -->
+      </td>
+      <td width="50%" valign="top">
+        <img src="props/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%">
+        <img src="props/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%">
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="props/metrics.base.svg" alt="base" width="100%">
-      <img src="props/metrics.plugin.habits.facts.svg" alt="isocalendar" width="100%">
-    </td>
-    <td width="50%" valign="top">
-      <img src="props/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%">
-      <img src="props/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%">
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%23800a0a&title_bg=%23f00a0a&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%23800a0a&title_bg=%23f00a0a&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
 
 <!--
