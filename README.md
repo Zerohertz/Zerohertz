@@ -136,9 +136,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up Kubernetes v1.30.3](https://zerohertz.github.io/k8s-v1-30/)
 - [CKA &lpar;Certified Kubernetes Administrator&rpar;](https://zerohertz.github.io/cka/)
 - [Harnessing The ML Backends for Efficient Labeling in Label Studio](https://zerohertz.github.io/label-studio-ml-backend/)
 - [Paper Review: IC|TC](https://zerohertz.github.io/paper-review-ictc/)
 - [Paper Review: SOLAR](https://zerohertz.github.io/paper-review-solar/)
-- [Lecture Review: 실전 AI 서비스 기획 &lpar;Jump into the AI World - AI Product Lifecycle&rpar;](https://zerohertz.github.io/upstage-udemy/)
 <!-- BLOG-POST-LIST:END -->
