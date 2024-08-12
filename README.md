@@ -136,9 +136,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [전문연구요원: 법](https://zerohertz.github.io/professional-research-agent-raw/)
 - [Setting Up Kubernetes v1.30.3](https://zerohertz.github.io/k8s-v1-30/)
 - [CKA &lpar;Certified Kubernetes Administrator&rpar;](https://zerohertz.github.io/cka/)
 - [Harnessing The ML Backends for Efficient Labeling in Label Studio](https://zerohertz.github.io/label-studio-ml-backend/)
 - [Paper Review: IC|TC](https://zerohertz.github.io/paper-review-ictc/)
-- [Paper Review: SOLAR](https://zerohertz.github.io/paper-review-solar/)
 <!-- BLOG-POST-LIST:END -->
