@@ -20,7 +20,7 @@
 </p>
 
 ```yaml
-2023.02 ~ Present: Machine Learning Research Engineer at Machine Vision R&D Department, AgileSoDA, Korea
+2023.02 ~ 2024.09: Machine Learning Research Engineer at AgileSoDA, Korea
 2021.03 ~ 2023.02: M.S. in Mechanical Design and Production Engineering, Konkuk University, Korea
   ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
 2017.03 ~ 2021.02: B.S. in Department of Mechanical Engineering, Konkuk University, Korea
@@ -47,7 +47,6 @@
     </tr>
   </table>
 </div>
-
 
 <p align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%23800a0a&title_bg=%23f00a0a&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
@@ -136,6 +135,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Java &lpar;3&rpar;](https://zerohertz.github.io/java-3/)
 - [Java &lpar;2&rpar;](https://zerohertz.github.io/java-2/)
 - [전문연구요원: 법](https://zerohertz.github.io/professional-research-agent-raw/)
