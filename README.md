@@ -135,7 +135,6 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Java &lpar;3&rpar;](https://zerohertz.github.io/java-3/)
 - [Java &lpar;2&rpar;](https://zerohertz.github.io/java-2/)
 - [전문연구요원: 법](https://zerohertz.github.io/professional-research-agent-raw/)
