@@ -2,7 +2,7 @@
     ⚡ Zerohertz ⚡
 </h2>
 
-> Interested in computer vision, machine learning, MLOps
+> Interested in backend engineering, DevOps, MLOps
 
 <p align="center">
     <a href="https://zerohertz.github.io/about/">
@@ -33,12 +33,11 @@
     <tr>
       <td width="50%" valign="top">
         <img src="props/metrics.base.svg" alt="base" width="100%">
-        <!-- <img src="props/metrics.plugin.habits.facts.svg" alt="isocalendar" width="100%"> -->
-        <a href="https://render.gitanimals.org/farms/Zerohertz">
+        <img src="props/metrics.plugin.habits.facts.svg" alt="isocalendar" width="100%">
+<!--         <a href="https://render.gitanimals.org/farms/Zerohertz">
           <img src="https://render.gitanimals.org/farms/Zerohertz"/>
-        </a>
-        <!-- https://render.gitanimals.org/users/Zerohertz -->
-        <!-- <img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020690" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020688" width="25%" height="100"/><img src="https://render.gitanimals.org/lines/Zerohertz?pet-id=583587894484020686" width="25%" height="100"/> -->
+        </a> -->
+<!--         <img src="https://github-readme-stats-zerohertz.vercel.app/api?username=zerohertz&card_width=500&hide_title=true&show_icons=true&count_private=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"> -->
       </td>
       <td width="50%" valign="top">
         <img src="props/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%">
