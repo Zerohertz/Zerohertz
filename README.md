@@ -20,12 +20,13 @@
 </p>
 
 ```yaml
+2024.09 ~ Present: Backend Engineer at Tmax WAPL, Korea
 2023.02 ~ 2024.09: Machine Learning Research Engineer at AgileSoDA, Korea
 2021.03 ~ 2023.02: M.S. in Mechanical Design and Production Engineering, Konkuk University, Korea
-  ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
+    ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
 2017.03 ~ 2021.02: B.S. in Department of Mechanical Engineering, Konkuk University, Korea
-  ㄴ 2018.06 ~ 2019.11: Research Intern at MRV Lab. (Medical Robotics and Virtual Reality Laboratory)
-  ㄴ 2019.11 ~ 2021.02: Research Intern at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
+    ㄴ 2019.11 ~ 2021.02: Research Intern at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
+    ㄴ 2018.06 ~ 2019.11: Research Intern at MRV Lab. (Medical Robotics and Virtual Reality Laboratory)
 ```
 
 <div align="center">
