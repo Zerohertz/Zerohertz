@@ -11,7 +11,7 @@
     <a href="https://scholar.google.com/citations?user=TxiJyc0AAAAJ">
         <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/hyogeun-oh-67470b242/">
+    <a href="https://www.linkedin.com/in/hyogeunoh">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
     </a>
     <a href="mailto:ohg3417@gmail.com">
