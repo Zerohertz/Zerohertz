@@ -135,9 +135,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tags in Hexo NexT Theme](https://zerohertz.github.io/hexo-next-tags/)
 - [전문연구요원: 전직](https://zerohertz.github.io/technical-research-personnel-career-change/)
 - [Java &lpar;3&rpar;](https://zerohertz.github.io/java-3/)
 - [Java &lpar;2&rpar;](https://zerohertz.github.io/java-2/)
 - [전문연구요원: 법](https://zerohertz.github.io/technical-research-personnel-law/)
-- [Setting Up Kubernetes v1.30.3](https://zerohertz.github.io/k8s-v1-30/)
 <!-- BLOG-POST-LIST:END -->
