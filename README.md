@@ -20,7 +20,7 @@
 </p>
 
 ```yaml
-2024.09 ~ Present: Backend Engineer at Tmax WAPL, Korea
+2024.09 ~ 2024.11: Backend Engineer at Tmax WAPL, Korea
 2023.02 ~ 2024.09: Machine Learning Research Engineer at AgileSoDA, Korea
 2021.03 ~ 2023.02: M.S. in Mechanical Design and Production Engineering, Konkuk University, Korea
     ㄴ 2021.03 ~ 2023.02: Research Student at SiM Lab. (Smart intelligent Manufacturing system Laboratory)
