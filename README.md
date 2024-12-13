@@ -70,9 +70,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing REST and gRPC](https://zerohertz.github.io/grpc-init/)
 - [Tags in Hexo NexT Theme](https://zerohertz.github.io/hexo-next-tags/)
 - [전문연구요원: 전직 &lpar;1.5년&rpar;](https://zerohertz.github.io/technical-research-personnel-career-change/)
 - [Java &lpar;3&rpar;](https://zerohertz.github.io/java-3/)
 - [Java &lpar;2&rpar;](https://zerohertz.github.io/java-2/)
-- [전문연구요원: 법](https://zerohertz.github.io/technical-research-personnel-law/)
 <!-- BLOG-POST-LIST:END -->
