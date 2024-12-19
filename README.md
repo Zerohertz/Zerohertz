@@ -20,6 +20,7 @@
 </p>
 
 ```yaml
+2024.12 ~ Present: Machine Learning Engineer at MINDs and Company, Korea
 2024.09 ~ 2024.11: Backend Engineer at Tmax WAPL, Korea
 2023.02 ~ 2024.09: Machine Learning Research Engineer at AgileSoDA, Korea
 2021.03 ~ 2023.02: M.S. in Mechanical Design and Production Engineering, Konkuk University, Korea
