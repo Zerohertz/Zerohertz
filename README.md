@@ -11,9 +11,6 @@
     <a href="https://scholar.google.com/citations?user=TxiJyc0AAAAJ">
         <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/hyogeunoh">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-    </a>
     <a href="mailto:ohg3417@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
@@ -37,10 +34,10 @@
 </h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=apple" />
-<img src="https://img.shields.io/badge/Kitty-000?style=for-the-badge&logo=gnometerminal" />
-<img src="https://img.shields.io/badge/Zsh-000?style=for-the-badge&logo=zsh" />
-<img src="https://img.shields.io/badge/Neovim-000?style=for-the-badge&logo=neovim" />
+<a href="https://github.com/Zerohertz/dotfiles/blob/main/macos"><img src="https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=apple" /></a>
+<a href="https://github.com/Zerohertz/dotfiles/blob/main/.config/kitty/kitty.conf"><img src="https://img.shields.io/badge/Kitty-000?style=for-the-badge&logo=gnometerminal" /></a>
+<a href="https://github.com/Zerohertz/dotfiles/blob/main/.zshrc"><img src="https://img.shields.io/badge/Zsh-000?style=for-the-badge&logo=zsh" /></a>
+<a href="https://github.com/Zerohertz/nvim"><img src="https://img.shields.io/badge/Neovim-000?style=for-the-badge&logo=neovim" /></a>
 </div>
 
 <div align="center">
