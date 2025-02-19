@@ -16,7 +16,7 @@
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerohertz&card_widtht=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT,Stylus,Nunjucks&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"
+        src="https://github-readme-stats-zerohertz.vercel.app/api/top-langs/?username=zerohertz&card_widtht=500&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,JavaScript,XSLT,Stylus,Nunjucks&langs_count=10&hide_title=true&text_color=800a0a&icon_color=800a0a&border_color=800a0a&bg_color=ffffff&ring_color=a00a0a"
         alt="lang"
         height="150"
       />
