@@ -69,9 +69,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [System Design Interview Volume 2 &lpar;2&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-2/)
 - [System Design Interview Volume 2 &lpar;1&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-1/)
 - [전문연구요원: 전직 &lpar;임금체불&rpar;](https://zerohertz.github.io/technical-research-personnel-no-pay/)
 - [Comparing REST and gRPC](https://zerohertz.github.io/grpc-init/)
 - [Tags in Hexo NexT Theme](https://zerohertz.github.io/hexo-next-tags/)
-- [전문연구요원: 전직 &lpar;1.5년&rpar;](https://zerohertz.github.io/technical-research-personnel-career-change/)
 <!-- BLOG-POST-LIST:END -->
