@@ -45,12 +45,14 @@
   <table>
     <tr>
       <td width="50%" valign="top">
-        <img src="props/metrics.base.svg" alt="base" width="100%">
-        <img src="props/metrics.plugin.habits.facts.svg" alt="isocalendar" width="100%">
+        <img src="metrics/metrics.base.svg" alt="base" width="100%"/>
+        <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/>
       </td>
       <td width="50%" valign="top">
-        <img src="props/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%">
-        <img src="props/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%">
+        <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%"/>
+        <img src="metrics/metrics.plugin.languages.details.svg" alt="languages" width="100%"/>
+        <!-- <img src="metrics/metrics.plugin.notable.indepth.svg" alt="notable" width="100%"/> -->
+        <!-- <img src="metrics/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%"/> -->
       </td>
     </tr>
   </table>
@@ -69,6 +71,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [System Design Interview Volume 2 &lpar;4&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-4/)
 - [System Design Interview Volume 2 &lpar;3&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-3/)
 - [System Design Interview Volume 2 &lpar;2&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-2/)
