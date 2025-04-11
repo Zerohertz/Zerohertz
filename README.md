@@ -73,7 +73,6 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [System Design Interview Volume 2 &lpar;4&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-4/)
 - [System Design Interview Volume 2 &lpar;3&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-3/)
 - [System Design Interview Volume 2 &lpar;2&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-2/)
