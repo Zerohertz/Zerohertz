@@ -1,0 +1,70 @@
+name: Generate Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  workflow_call:
+    secrets:
+      GH_TOKEN:
+        required: true
+      # CHESS_TOKEN:
+      #   required: true
+      # PAGESPEED_TOKEN:
+      #   required: true
+      # GOOGLE_MAP_TOKEN:
+      #   required: true
+      # SPLATOON_TOKEN:
+      #   required: true
+      # SPLATOON_STATINK_TOKEN:
+      #   required: true
+      # SIXTEEN_PERSONALITIES_URL:
+      #   required: true
+      # SPOTIFY_TOKENS:
+      #   required: true
+      # STOCK_TOKEN:
+      #   required: true
+      # TWITTER_TOKEN:
+      #   required: true
+      # WAKATIME_TOKEN:
+      #   required: true
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🗼 Rss feed - News from hackernews (README.md)
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://zerohertz.github.io/rss2
+      - name: 🌟 Recently starred repositories - Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.stars.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 5
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 🗼 Rss feed - News from hackernews
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.rss.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_source: https://zerohertz.github.io/rss2.xml
+          plugin_rss_limit: 5
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
