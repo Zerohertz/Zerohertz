@@ -14,7 +14,7 @@
     <a href="mailto:ohg3417@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/endpoint.svg?url=https://api.zerohertz.xyz/v1/shields/jmy"/>
+    <img src="https://img.shields.io/endpoint.svg?url=https://raw.githubusercontent.com/Zerohertz/Zerohertz/refs/heads/main/data/jmy.json"/>
 </p>
 
 ```yaml
@@ -46,11 +46,11 @@
     <tr>
       <td width="50%" valign="top">
         <img src="metrics/metrics.base.svg" alt="base" width="100%"/>
-        <!-- <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/> -->
         <img src="metrics/metrics.plugin.stars.svg" alt="stars" width="100%"/>
       </td>
       <td width="50%" valign="top">
         <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%"/>
+        <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/>
         <img src="metrics/metrics.plugin.languages.details.svg" alt="languages" width="100%"/>
         <!-- <img src="metrics/metrics.plugin.notable.indepth.svg" alt="notable" width="100%"/> -->
         <!-- <img src="metrics/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%"/> -->
