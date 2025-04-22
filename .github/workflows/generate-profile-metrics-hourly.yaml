@@ -1,4 +1,4 @@
-name: Generate Profile Metrics
+name: Generate Profile Metrics (Hourly)
 
 on:
   schedule:
