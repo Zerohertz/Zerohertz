@@ -46,7 +46,8 @@
     <tr>
       <td width="50%" valign="top">
         <img src="metrics/metrics.base.svg" alt="base" width="100%"/>
-        <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/>
+        <!-- <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/> -->
+        <img src="metrics/metrics.plugin.stars.svg" alt="stars" width="100%"/>
       </td>
       <td width="50%" valign="top">
         <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%"/>
