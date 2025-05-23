@@ -8,9 +8,12 @@
     <a href="https://zerohertz.github.io/about/">
         <img src="https://img.shields.io/badge/About Me-800A0A?style=for-the-badge&logo=ReadMe&logoColor=white"/>
     </a>
-    <a href="https://scholar.google.com/citations?user=TxiJyc0AAAAJ">
-        <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+    <a href="https://cal.com/zerohertz?redirect=false">
+        <img src="https://img.shields.io/badge/Coffee Chat-2F2625?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
     </a>
+    <!-- <a href="https://scholar.google.com/citations?user=TxiJyc0AAAAJ">
+        <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+    </a> -->
     <a href="mailto:ohg3417@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
