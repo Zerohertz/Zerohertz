@@ -2,8 +2,6 @@
     ⚡ Zerohertz ⚡
 </h2>
 
-> Interested in backend engineering, DevOps, MLOps
-
 <p align="center">
     <a href="https://zerohertz.github.io/about/">
         <img src="https://img.shields.io/badge/About Me-800A0A?style=for-the-badge&logo=ReadMe&logoColor=white"/>
