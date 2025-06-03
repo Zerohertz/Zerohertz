@@ -37,20 +37,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🗃️ Base content - Default metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.base.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: header, activity, community, repositories
-          plugin_traffic: yes
-          plugin_lines: yes
-          plugin_lines_delay: 60
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 🗃️ Base content - Default metrics
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.base.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: header, activity, community, repositories
+      #     plugin_traffic: yes
+      #     plugin_lines: yes
+      #     plugin_lines_delay: 60
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       # - name: 🧱 Core - Organization
       #   uses: lowlighter/metrics@latest
       #   with:
@@ -130,19 +130,19 @@ jobs:
       #     user: Zerohertz
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
-      - name: 📅 Isometric commit calendar - Full-year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.isocalendar.fullyear.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 📅 Isometric commit calendar - Full-year calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.isocalendar.fullyear.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_isocalendar: yes
+      #     plugin_isocalendar_duration: full-year
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       - name: 🈷️ Languages activity - Most used
         uses: lowlighter/metrics@latest
         with:
@@ -194,25 +194,25 @@ jobs:
       #     user: Zerohertz
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
-      - name: 🈷️ Languages activity - Indepth analysis
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.languages.indepth.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, jupyter notebook, smarty, stylus, nunjucks
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: 7
-          plugin_languages_analysis_timeout: 15
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 🈷️ Languages activity - Indepth analysis
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.languages.indepth.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_languages: yes
+      #     plugin_languages_ignored: >-
+      #       html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+      #       gnuplot, jupyter notebook, smarty, stylus, nunjucks
+      #     plugin_languages_indepth: yes
+      #     plugin_languages_details: lines, bytes-size
+      #     plugin_languages_limit: 7
+      #     plugin_languages_analysis_timeout: 15
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       - name: ✨ Stargazers - Using classic charts
         uses: lowlighter/metrics@latest
         with:
@@ -637,36 +637,36 @@ jobs:
           user: Zerohertz
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: 🏆 Achievements - Detailed display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.achievements.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: sponsor, maintainer, octonaut
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: 🏆 Achievements - Compact display
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_only: >-
-            polyglot, stargazer, deployer, member, maintainer, developer,
-            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 🏆 Achievements - Detailed display
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.achievements.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_achievements: yes
+      #     plugin_achievements_only: sponsor, maintainer, octonaut
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
+      # - name: 🏆 Achievements - Compact display
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.achievements.compact.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_achievements: yes
+      #     plugin_achievements_only: >-
+      #       polyglot, stargazer, deployer, member, maintainer, developer,
+      #       scripter, packager, explorer, infographile, manager
+      #     plugin_achievements_display: compact
+      #     plugin_achievements_threshold: X
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       - name: 🎩 Notable contributions - Contributions
         uses: lowlighter/metrics@latest
         with:
@@ -1188,18 +1188,18 @@ jobs:
       #     delay: 60
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
-      - name: 📙 Terminal template
-        uses: lowlighter/metrics@latest
-        with:
-          template: terminal
-          filename: metrics/metrics.terminal.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: header, metadata
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 📙 Terminal template
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     template: terminal
+      #     filename: metrics/metrics.terminal.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: header, metadata
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       # - name: 📒 Markdown template
       #   uses: lowlighter/metrics@latest
       #   with:

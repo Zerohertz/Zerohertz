@@ -37,10 +37,33 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🗼 Rss feed - News from hackernews (README.md)
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: 🗃️ Base content - Default metrics
+        uses: lowlighter/metrics@latest
         with:
-          feed_list: https://zerohertz.github.io/rss2
+          filename: metrics/metrics.base.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_traffic: yes
+          plugin_lines: yes
+          plugin_lines_delay: 60
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 📅 Isometric commit calendar - Full-year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
       - name: 🌟 Recently starred repositories - Recently starred
         uses: lowlighter/metrics@latest
         with:
@@ -68,3 +91,7 @@ jobs:
           user: Zerohertz
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
+      - name: 🗼 Rss feed - News from hackernews (README.md)
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: https://zerohertz.github.io/rss2
