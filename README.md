@@ -76,9 +76,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;1/2&rpar;](https://zerohertz.github.io/vllm-openai-1/)
 - [System Design Interview Volume 2 &lpar;9&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-9/)
 - [System Design Interview Volume 2 &lpar;8&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-8/)
 - [System Design Interview Volume 2 &lpar;7&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-7/)
 - [JavaScript &amp; TypeScript &lpar;2&rpar;](https://zerohertz.github.io/js-ts-2/)
-- [System Design Interview Volume 2 &lpar;6&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-6/)
 <!-- BLOG-POST-LIST:END -->
