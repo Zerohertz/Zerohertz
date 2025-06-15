@@ -3,17 +3,17 @@
 </h2>
 
 <p align="center">
-    <a href="https://zerohertz.github.io/about/">
+    <a href="https://zerohertz.github.io/about/" target="_blank">
         <img src="https://img.shields.io/badge/About Me-800A0A?style=for-the-badge&logo=ReadMe&logoColor=white"/>
     </a>
-    <a href="https://scholar.google.com/citations?user=TxiJyc0AAAAJ">
+    <a href="https://scholar.google.com/citations?user=TxiJyc0AAAAJ" target="_blank">
         <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
     </a>
-    <a href="mailto:ohg3417@gmail.com">
+    <a href="mailto:ohg3417@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
     <br/>
-    <a href="https://cal.com/zerohertz?redirect=false">
+    <a href="https://cal.com/zerohertz?redirect=false" target="_blank">
         <img src="https://img.shields.io/badge/Coffee Chat-2F2625?style=flat&logo=buymeacoffee&logoColor=white"/>
     </a>
     <img src="https://img.shields.io/endpoint.svg?url=https://raw.githubusercontent.com/Zerohertz/Zerohertz/refs/heads/main/data/jmy.json"/>
@@ -31,16 +31,16 @@
 ```
 
 <h2 align="center">
-    <a href="https://github.com/stars/Zerohertz/lists/00-dev-environments">
+    <a href="https://github.com/stars/Zerohertz/lists/00-dev-environments" target="_blank">
         🛠️ Dev Environments 🛠️
     </a>
 </h2>
 
 <div align="center">
-<a href="https://github.com/Zerohertz/dotfiles/blob/main/macos"><img src="https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=apple" /></a>
-<a href="https://github.com/Zerohertz/dotfiles/blob/main/.config/kitty/kitty.conf"><img src="https://img.shields.io/badge/Kitty-000?style=for-the-badge&logo=gnometerminal" /></a>
-<a href="https://github.com/Zerohertz/dotfiles/blob/main/.zshrc"><img src="https://img.shields.io/badge/Zsh-000?style=for-the-badge&logo=zsh" /></a>
-<a href="https://github.com/Zerohertz/nvim"><img src="https://img.shields.io/badge/Neovim-000?style=for-the-badge&logo=neovim" /></a>
+<a href="https://github.com/Zerohertz/dotfiles/blob/main/macos" target="_blank"><img src="https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=apple" /></a>
+<a href="https://github.com/Zerohertz/dotfiles/blob/main/.config/kitty/kitty.conf" target="_blank"><img src="https://img.shields.io/badge/Kitty-000?style=for-the-badge&logo=gnometerminal" /></a>
+<a href="https://github.com/Zerohertz/dotfiles/blob/main/.zshrc" target="_blank"><img src="https://img.shields.io/badge/Zsh-000?style=for-the-badge&logo=zsh" /></a>
+<a href="https://github.com/Zerohertz/nvim" target="_blank"><img src="https://img.shields.io/badge/Neovim-000?style=for-the-badge&logo=neovim" /></a>
 </div>
 
 <div align="center">
@@ -61,21 +61,16 @@
   </table>
 </div>
 
-<!--
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZerohertz&count_bg=%23800a0a&title_bg=%23f00a0a&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-</p>
--->
-
 ---
 
 <h2 align="center">
-    <a href="https://zerohertz.github.io/">
+    <a href="https://zerohertz.github.io/" target="_blank">
         <img src="https://img.shields.io/badge/Zerohertz's%20Blog-800a0a?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;1/2&rpar;](https://zerohertz.github.io/vllm-openai-1/)
 - [System Design Interview Volume 2 &lpar;9&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-9/)
 - [System Design Interview Volume 2 &lpar;8&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-8/)
