@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#361 [v1.2.0] Chore update</span>
+                                        <span class="issue">#363 [v1.2.0] Chore update</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zerohertz/zerohertzLib</span></div>
-                                    <div>47 files changed <span class="code">++53 --5</span></div>
+                                    <div>47 files changed <span class="code">++55 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -40,12 +40,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#362 [Docs] Build by Sphinx for GitHub Pages</span>
+                                        <span class="issue">#364 [Docs] Build by Sphinx for GitHub Pages</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zerohertz/zerohertzLib</span></div>
-                                    <div>46 files changed <span class="code">++47 --3</span></div>
+                                    <div>46 files changed <span class="code">++53 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -57,12 +57,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#362 [Docs] Build by Sphinx for GitHub Pages</span>
+                                        <span class="issue">#364 [Docs] Build by Sphinx for GitHub Pages</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zerohertz/zerohertzLib</span></div>
-                                    <div>46 files changed <span class="code">++47 --3</span></div>
+                                    <div>46 files changed <span class="code">++53 --6</span></div>
                                 </div>
                             </section>
                         </div>
@@ -74,12 +74,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#361 [v1.2.0] Chore update</span>
+                                        <span class="issue">#363 [v1.2.0] Chore update</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Zerohertz/zerohertzLib</span></div>
-                                    <div>1 file changed <span class="code">++5 --1</span></div>
+                                    <div>1 file changed <span class="code">++2 --0</span></div>
                                 </div>
                             </section>
                         </div>
