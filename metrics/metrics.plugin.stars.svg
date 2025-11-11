@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/gpu-operator</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mellanox/network-operator</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA Network Operator</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Mellanox/k8s-rdma-shared-dev-plugin</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
