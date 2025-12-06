@@ -52,8 +52,8 @@
       </td>
       <td width="50%" valign="top">
         <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%"/>
-        <img src="metrics/metrics.plugin.notable.indepth.svg" alt="notable" width="100%"/>
         <img src="metrics/metrics.plugin.languages.details.svg" alt="languages" width="100%"/>
+        <img src="metrics/metrics.plugin.notable.indepth.svg" alt="notable" width="100%"/>
         <!-- <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/> -->
         <!-- <img src="metrics/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%"/> -->
       </td>
