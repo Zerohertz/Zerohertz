@@ -359,21 +359,21 @@ jobs:
       #     user: Zerohertz
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
-      - name: 💡 Coding habits and activity - Mildly interesting facts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.habits.facts.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Asia/Seoul
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 💡 Coding habits and activity - Mildly interesting facts
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.habits.facts.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_habits: yes
+      #     plugin_habits_facts: yes
+      #     plugin_habits_charts: no
+      #     config_timezone: Asia/Seoul
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       # - name: 💡 Coding habits and activity - Recent activity charts
       #   uses: lowlighter/metrics@latest
       #   with:
@@ -1016,20 +1016,20 @@ jobs:
       #     user: Zerohertz
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
-      - name: 🗼 Rss feed - News from hackernews
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.rss.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_rss: yes
-          plugin_rss_source: https://zerohertz.github.io/rss2.xml
-          plugin_rss_limit: 5
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 🗼 Rss feed - News from hackernews
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.rss.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_rss: yes
+      #     plugin_rss_source: https://zerohertz.github.io/rss2.xml
+      #     plugin_rss_limit: 5
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       # - name: ⏰ WakaTime - WakaTime
       #   uses: lowlighter/metrics@latest
       #   with:

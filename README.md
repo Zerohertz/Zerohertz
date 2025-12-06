@@ -52,9 +52,9 @@
       </td>
       <td width="50%" valign="top">
         <img src="metrics/metrics.plugin.isocalendar.fullyear.svg" alt="isocalendar" width="100%"/>
-        <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/>
+        <img src="metrics/metrics.plugin.notable.indepth.svg" alt="notable" width="100%"/>
         <img src="metrics/metrics.plugin.languages.details.svg" alt="languages" width="100%"/>
-        <!-- <img src="metrics/metrics.plugin.notable.indepth.svg" alt="notable" width="100%"/> -->
+        <!-- <img src="metrics/metrics.plugin.habits.facts.svg" alt="habits" width="100%"/> -->
         <!-- <img src="metrics/metrics.plugin.achievements.compact.svg" alt="achievements" width="100%"/> -->
       </td>
     </tr>
@@ -70,6 +70,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Paper Review: PagedAttention](https://zerohertz.github.io/paper-review-pagedattention/)
 - [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;2/2&rpar;](https://zerohertz.github.io/vllm-openai-2/)
 - [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;1/2&rpar;](https://zerohertz.github.io/vllm-openai-1/)
