@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dstackai/dstack</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem.</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BudEcosystem/Awesome-vLLM-plugins</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A curated list of plugins built on top of vLLM</div>
@@ -123,7 +123,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zilliztech/GPTCache</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Semantic cache for LLMs. Fully integrated with LangChain and llama_index.</div>
