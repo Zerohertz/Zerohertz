@@ -1,8 +1,10 @@
-name: Generate Profile Metrics
+name: Generate Profile Metrics - Without Base
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Run at 5 PM and 5 AM KST (8 AM and 8 PM UTC)
+    # Avoiding overlap with base-only workflow
+    - cron: "0 8,20 * * *"
   workflow_dispatch:
   workflow_call:
     secrets:
@@ -37,20 +39,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: 🗃️ Base content - Default metrics
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.base.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: header, activity, community, repositories
-          plugin_traffic: yes
-          plugin_lines: yes
-          plugin_lines_delay: 60
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 🗃️ Base content - Default metrics
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.base.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: header, activity, community, repositories
+      #     plugin_traffic: yes
+      #     plugin_lines: yes
+      #     plugin_lines_delay: 60
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       # - name: 🧱 Core - Organization
       #   uses: lowlighter/metrics@latest
       #   with:

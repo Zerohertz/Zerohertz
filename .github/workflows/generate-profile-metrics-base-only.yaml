@@ -1,0 +1,36 @@
+name: Generate Profile Metrics - Base Only
+
+on:
+  schedule:
+    # Run at 11 AM and 11 PM KST (2 AM and 2 PM UTC)
+    # Avoiding overlap with without-base workflow
+    - cron: "0 2,14 * * *"
+  workflow_dispatch:
+  workflow_call:
+    secrets:
+      GH_TOKEN:
+        required: true
+
+jobs:
+  github-metrics-base:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🗃️ Base content - Default metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.base.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_traffic: yes
+          plugin_lines: yes
+          plugin_lines_delay: 60
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
