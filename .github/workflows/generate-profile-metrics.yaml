@@ -171,11 +171,30 @@ jobs:
             gnuplot, jupyter notebook, smarty, stylus, nunjucks
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 7
-          output_action: commit
+          output_action: none
           delay: 60
           user: Zerohertz
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
+      - name: Check if Python exists in SVG
+        id: check_python
+        run: |
+          if grep -q "Python" metrics/metrics.plugin.languages.details.svg; then
+            echo "python_exists=true" >> $GITHUB_OUTPUT
+            echo "✅ Python found in SVG file"
+          else
+            echo "python_exists=false" >> $GITHUB_OUTPUT
+            echo "⚠️ Python not found in SVG file - skipping commit"
+          fi
+        if: ${{ success() || failure() }}
+      - name: Commit language metrics if Python exists
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add metrics/metrics.plugin.languages.details.svg
+          git commit -m "Update metrics/metrics.plugin.languages.details.svg - [Skip GitHub Action]" || echo "No changes to commit"
+          git push
+        if: ${{ (success() || failure()) && steps.check_python.outputs.python_exists == 'true' }}
       # - name: 🈷️ Languages activity - Recently used
       #   uses: lowlighter/metrics@latest
       #   with:
