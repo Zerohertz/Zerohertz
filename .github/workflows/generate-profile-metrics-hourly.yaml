@@ -2,7 +2,8 @@ name: Generate Profile Metrics - Hourly
 
 on:
   schedule:
-    # Run every hour except 2 AM UTC (11 AM KST) to avoid overlap with daily workflow
+    # Run every hour except 11 AM KST (2 AM UTC)
+    # Avoiding overlap with daily workflow
     - cron: "0 0-1,3-23 * * *"
   workflow_dispatch:
   workflow_call:
