@@ -1,10 +1,9 @@
-name: Generate Profile Metrics - Without Base
+name: Generate Profile Metrics - Hourly
 
 on:
   schedule:
-    # Run at 5 PM and 5 AM KST (8 AM and 8 PM UTC)
-    # Avoiding overlap with base-only workflow
-    - cron: "0 8,20 * * *"
+    # Run every hour except 2 AM UTC (11 AM KST) to avoid overlap with daily workflow
+    - cron: "0 0-1,3-23 * * *"
   workflow_dispatch:
   workflow_call:
     secrets:
@@ -31,7 +30,7 @@ on:
       # WAKATIME_TOKEN:
       #   required: true
 jobs:
-  github-metrics:
+  github-metrics-hourly:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -173,30 +172,27 @@ jobs:
             gnuplot, jupyter notebook, smarty, stylus, nunjucks
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 7
+          repositories_batch: 50
           output_action: none
           delay: 60
           user: Zerohertz
           plugins_errors_fatal: yes
         if: ${{ success() || failure() }}
-      - name: Check if Python exists in SVG
-        id: check_python
+      - name: Copy, check, and commit language metrics
         run: |
+          mkdir -p metrics
+          cp /metrics_renders/metrics/metrics.plugin.languages.details.svg metrics/
           if grep -q "Python" metrics/metrics.plugin.languages.details.svg; then
-            echo "python_exists=true" >> $GITHUB_OUTPUT
-            echo "✅ Python found in SVG file"
+            echo "✅ Python found in SVG file - committing changes"
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add metrics/metrics.plugin.languages.details.svg
+            git commit -m "Update metrics/metrics.plugin.languages.details.svg - [Skip GitHub Action]" || echo "No changes to commit"
+            git push
           else
-            echo "python_exists=false" >> $GITHUB_OUTPUT
             echo "⚠️ Python not found in SVG file - skipping commit"
           fi
         if: ${{ success() || failure() }}
-      - name: Commit language metrics if Python exists
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add metrics/metrics.plugin.languages.details.svg
-          git commit -m "Update metrics/metrics.plugin.languages.details.svg - [Skip GitHub Action]" || echo "No changes to commit"
-          git push
-        if: ${{ (success() || failure()) && steps.check_python.outputs.python_exists == 'true' }}
       # - name: 🈷️ Languages activity - Recently used
       #   uses: lowlighter/metrics@latest
       #   with:
@@ -633,31 +629,31 @@ jobs:
       #     user: Zerohertz
       #     plugins_errors_fatal: yes
       #   if: ${{ success() || failure() }}
-      - name: 📆 Commit calendar - Current year calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.calendar.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
-      - name: 📆 Commit calendar - Full history calendar
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/metrics.plugin.calendar.full.svg
-          token: ${{ secrets.GH_TOKEN }}
-          base: ""
-          plugin_calendar: yes
-          plugin_calendar_limit: 0
-          output_action: commit
-          delay: 60
-          user: Zerohertz
-          plugins_errors_fatal: yes
-        if: ${{ success() || failure() }}
+      # - name: 📆 Commit calendar - Current year calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.calendar.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_calendar: yes
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
+      # - name: 📆 Commit calendar - Full history calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/metrics.plugin.calendar.full.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+      #     base: ""
+      #     plugin_calendar: yes
+      #     plugin_calendar_limit: 0
+      #     output_action: commit
+      #     delay: 60
+      #     user: Zerohertz
+      #     plugins_errors_fatal: yes
+      #   if: ${{ success() || failure() }}
       # - name: 🏆 Achievements - Detailed display
       #   uses: lowlighter/metrics@latest
       #   with:

@@ -1,0 +1,61 @@
+name: Generate Profile Metrics - Daily
+
+on:
+  schedule:
+    # Run at 11 AM KST (2 AM UTC) daily
+    # Avoiding overlap with hourly workflow
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  workflow_call:
+    secrets:
+      GH_TOKEN:
+        required: true
+
+jobs:
+  github-metrics-daily:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🗃️ Base content - Default metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.base.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_traffic: yes
+          plugin_lines: yes
+          plugin_lines_delay: 60
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 📆 Commit calendar - Current year calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.calendar.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+      - name: 📆 Commit calendar - Full history calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics.plugin.calendar.full.svg
+          token: ${{ secrets.GH_TOKEN }}
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          output_action: commit
+          delay: 60
+          user: Zerohertz
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
