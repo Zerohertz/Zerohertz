@@ -187,6 +187,7 @@ jobs:
             echo "✅ Python found in SVG file - committing changes"
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
+            git pull origin main
             git add metrics/metrics.plugin.languages.details.svg
             git commit -m "Update metrics/metrics.plugin.languages.details.svg - [Skip GitHub Action]" || echo "No changes to commit"
             git push
