@@ -37,7 +37,7 @@
 </h2>
 
 <div align="center">
-<a href="https://github.com/Zerohertz/dotfiles/blob/main/macos" target="_blank"><img src="https://img.shields.io/badge/MacOS-000?style=for-the-badge&logo=apple" /></a>
+<a href="https://github.com/Zerohertz/dotfiles/blob/main/macos" target="_blank"><img src="https://img.shields.io/badge/macOS-000?style=for-the-badge&logo=apple" /></a>
 <a href="https://github.com/Zerohertz/dotfiles/blob/main/.config/kitty/kitty.conf" target="_blank"><img src="https://img.shields.io/badge/Kitty-000?style=for-the-badge&logo=gnometerminal" /></a>
 <a href="https://github.com/Zerohertz/dotfiles/blob/main/.zshrc" target="_blank"><img src="https://img.shields.io/badge/Zsh-000?style=for-the-badge&logo=zsh" /></a>
 <a href="https://github.com/Zerohertz/nvim" target="_blank"><img src="https://img.shields.io/badge/Neovim-000?style=for-the-badge&logo=neovim" /></a>
