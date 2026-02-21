@@ -70,9 +70,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [CKAD &lpar;Certified Kubernetes Application Developer&rpar;](https://zerohertz.github.io/ckad/)
 - [Paper Review: PagedAttention](https://zerohertz.github.io/paper-review-pagedattention/)
 - [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;2/2&rpar;](https://zerohertz.github.io/vllm-openai-2/)
 - [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;1/2&rpar;](https://zerohertz.github.io/vllm-openai-1/)
 - [System Design Interview Volume 2 &lpar;9&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-9/)
-- [System Design Interview Volume 2 &lpar;8&rpar;](https://zerohertz.github.io/system-design-interview-volume-2-8/)
 <!-- BLOG-POST-LIST:END -->
