@@ -16,7 +16,6 @@
     <a href="https://cal.com/zerohertz?redirect=false" target="_blank">
         <img src="https://img.shields.io/badge/Coffee Chat-2F2625?style=flat&logo=buymeacoffee&logoColor=white"/>
     </a>
-    <img src="https://img.shields.io/endpoint.svg?url=https://raw.githubusercontent.com/Zerohertz/Zerohertz/refs/heads/main/data/jmy.json"/>
 </p>
 
 ```yaml
@@ -70,6 +69,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [CKAD &lpar;Certified Kubernetes Application Developer&rpar;](https://zerohertz.github.io/ckad/)
 - [Paper Review: PagedAttention](https://zerohertz.github.io/paper-review-pagedattention/)
 - [Code Review: Deep Dive into vLLM&#39;s Architecture and Implementation Analysis of OpenAI-Compatible Serving &lpar;2/2&rpar;](https://zerohertz.github.io/vllm-openai-2/)
