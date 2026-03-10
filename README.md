@@ -19,6 +19,7 @@
 </p>
 
 ```yaml
+2026.03 ~ Present: Machine Learning Engineer at Toss Securities, Korea
 2024.12 ~ 2026.03: Machine Learning Engineer at GenON, Korea
 2024.09 ~ 2024.11: Backend Engineer at Tmax WAPL, Korea
 2023.02 ~ 2024.09: Machine Learning Research Engineer at AgileSoDA, Korea
