@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
     </a>
     <br/>
-    <a href="https://cal.com/zerohertz?redirect=false" target="_blank">
+    <a href="https://cal.com/zerohertz/coffee-chat" target="_blank">
         <img src="https://img.shields.io/badge/Coffee Chat-2F2625?style=flat&logo=buymeacoffee&logoColor=white"/>
     </a>
 </p>
@@ -70,6 +70,7 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+
 - [전문연구요원: 끝](https://zerohertz.github.io/technical-research-personnel-del/)
 - [CKAD &lpar;Certified Kubernetes Application Developer&rpar;](https://zerohertz.github.io/ckad/)
 - [Paper Review: PagedAttention](https://zerohertz.github.io/paper-review-pagedattention/)
