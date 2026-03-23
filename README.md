@@ -70,7 +70,6 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
-
 - [전문연구요원: 끝](https://zerohertz.github.io/technical-research-personnel-del/)
 - [CKAD &lpar;Certified Kubernetes Application Developer&rpar;](https://zerohertz.github.io/ckad/)
 - [Paper Review: PagedAttention](https://zerohertz.github.io/paper-review-pagedattention/)
