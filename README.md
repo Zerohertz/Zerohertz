@@ -70,9 +70,9 @@
 </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Systems Performance Engineering &lpar;3&rpar;](https://zerohertz.github.io/ai-sys-perf-eng-3/)
 - [AI Systems Performance Engineering &lpar;2&rpar;](https://zerohertz.github.io/ai-sys-perf-eng-2/)
 - [AI Systems Performance Engineering &lpar;1&rpar;](https://zerohertz.github.io/ai-sys-perf-eng-1/)
 - [전문연구요원: 끝](https://zerohertz.github.io/technical-research-personnel-del/)
 - [CKAD &lpar;Certified Kubernetes Application Developer&rpar;](https://zerohertz.github.io/ckad/)
-- [Paper Review: PagedAttention](https://zerohertz.github.io/paper-review-pagedattention/)
 <!-- BLOG-POST-LIST:END -->
